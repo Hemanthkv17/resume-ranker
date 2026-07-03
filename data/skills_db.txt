@@ -1,0 +1,98 @@
+python
+java
+c++
+c
+javascript
+typescript
+sql
+nosql
+mysql
+postgresql
+mongodb
+html
+css
+react
+angular
+vue
+node.js
+express
+django
+flask
+fastapi
+spring
+spring boot
+aws
+azure
+gcp
+docker
+kubernetes
+git
+github
+ci/cd
+jenkins
+terraform
+linux
+bash
+shell scripting
+machine learning
+deep learning
+nlp
+natural language processing
+computer vision
+tensorflow
+pytorch
+keras
+scikit-learn
+pandas
+numpy
+data analysis
+data engineering
+data visualization
+tableau
+power bi
+rest api
+graphql
+microservices
+agile
+scrum
+unit testing
+pytest
+junit
+selenium
+android
+ios
+swift
+kotlin
+flutter
+react native
+excel
+r
+matlab
+hadoop
+spark
+kafka
+airflow
+redis
+elasticsearch
+devops
+system design
+oop
+object oriented programming
+data structures
+algorithms
+distributed systems
+cloud computing
+machine learning ops
+mlops
+llm
+large language models
+generative ai
+prompt engineering
+figma
+ui/ux
+product management
+project management
+communication
+leadership
+problem solving
+teamwork

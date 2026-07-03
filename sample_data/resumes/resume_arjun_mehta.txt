@@ -1,0 +1,18 @@
+Arjun Mehta
+Junior Software Developer
+
+Summary:
+Recent graduate with 1 year of experience in web development, familiar
+with Python and JavaScript. Eager to grow into backend engineering roles.
+
+Skills: Python, JavaScript, HTML, CSS, React, SQL, Git, MySQL
+
+Experience:
+Junior Developer, WebNest Solutions (2024 - Present)
+1 year of experience building internal tools using Python and MySQL.
+- Built small internal dashboards using React and Flask
+- Wrote basic SQL queries for reporting
+- Used Git for version control
+
+Education:
+Bachelor of Engineering (B.E) in Information Technology, Mumbai University, 2023

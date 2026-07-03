@@ -1,0 +1,26 @@
+Priya Sharma
+Backend Software Engineer
+
+Summary:
+Backend engineer with 4 years of experience building scalable REST API
+services in Python. Strong background in SQL database design and cloud
+deployment.
+
+Skills: Python, REST API, SQL, PostgreSQL, Docker, AWS, Git, CI/CD,
+Data Structures, Algorithms, Flask, Kubernetes, Redis
+
+Experience:
+Software Engineer, FinEdge Technologies (2022 - Present)
+- Built and maintained REST APIs in Python (Flask) serving 2M+ requests/day
+- Designed PostgreSQL schemas and optimized slow queries
+- Deployed services to AWS using Docker and Kubernetes
+- Set up CI/CD pipelines with Jenkins and Git
+
+Software Engineer, DataWorks Inc (2020 - 2022)
+- Worked on backend microservices using Python and Redis caching
+- Collaborated in an agile team using Scrum
+
+4 years of experience in backend software development.
+
+Education:
+Bachelor of Technology (B.Tech) in Computer Science, NIT Trichy, 2020

@@ -1,0 +1,20 @@
+Rohit Verma
+Senior Backend Engineer
+
+Summary:
+Backend engineer with 7 years of experience in Python and Java backend
+systems, primarily working with on-premise infrastructure.
+
+Skills: Python, Java, SQL, PostgreSQL, REST API, Git, Data Structures,
+Algorithms, System Design, Linux, Bash
+
+Experience:
+Senior Software Engineer, LegacySoft Pvt Ltd (2017 - Present)
+7 years of experience in backend software development.
+- Designed REST APIs in Python and Java for enterprise clients
+- Managed PostgreSQL databases and wrote complex SQL queries
+- Led system design discussions for distributed systems
+- Limited exposure to cloud platforms; primarily on-premise Linux servers
+
+Education:
+Master of Technology (M.Tech) in Computer Science, IIT Delhi, 2017
